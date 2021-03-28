@@ -1,0 +1,89 @@
+[{
+    "id":1,
+    "accountType": "Savings",
+    "name": "Saving Account 1",
+    "status": "active",
+    "transaction": [{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },
+      {
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      }]
+  },{
+    "id":2,
+    "accountType": "Savings",
+    "name": "Saving Account 2",
+    "status": "active",
+    "transaction": [{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },
+      {
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      }]
+  },{
+    "id":3,
+    "accountType": "EveryDay",
+    "name": "Everyday Account 1",
+    "status": "active",
+    "transaction": [{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },
+      {
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      }]
+  },{
+    "id":4,
+    "accountType": "Current",
+    "name": "Current Account 1",
+    "status": "active",
+    "transaction": [{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },
+      {
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      },{
+      "date":"12/02/2020",
+      "type": "Cr",
+      "amount": 212,
+      "description": "online shopping"
+      }]
+  }]

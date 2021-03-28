@@ -1,0 +1,22 @@
+.table-center {
+  width: 80%;
+  margin: 50px auto;
+}
+.create-btn {
+  width: 200px;
+  float: right;
+  margin-bottom: 5px;
+}
+.form-group {
+  width: 300px;
+  position: relative;
+  margin: 0 auto;
+  padding-bottom: 20px;
+}
+.margin-top17 {
+  margin-top: 17px;
+}
+.header {
+  text-align: center;
+  margin-top: 5px;
+}
